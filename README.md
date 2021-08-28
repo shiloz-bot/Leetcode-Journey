@@ -10,7 +10,7 @@
   <p align="center">
     An awesome document to record my leetcode journey!
     <br />
-    <a href="https://github.com/shiloz-bot/Shilong-s-Leetcode/edit/main/README.md#about-me"><strong>Explore the Docs»</strong></a>
+    <a href="https://github.com/shiloz-bot/Shilong-s-Leetcode/edit/main/README.md"><strong>Explore the Docs»</strong></a>
     <br />
     <br />
   </p>
@@ -27,25 +27,25 @@ Hi, my name is Shilong Zhang, and you can call me David. I am currently an under
   <summary>Data Structures</summary>
   <ol>
     <li>
-      <a href="#linkedlist">LinkedList</a>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/LinkedList/LinkedList.md">LinkedList</a>
       <ul>
-        <li><a href="#singly-linkedlist">Singly LinkedList</a></li>
-        <li><a href="#doubly-linkedlist">Doubly LinkedList</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/LinkedList/LinkedList.md#singly-linkedlist">Singly LinkedList</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/LinkedList/LinkedList.md#doubly-linkedlist">Doubly LinkedList</a></li>
       </ul>
     </li>
     <li>
-      <a href="#tree">Tree</a>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Tree/Tree.md">Tree</a>
       <ul>
-        <li><a href="#tree">Tree</a></li>
-        <li><a href="#bst">BST</a></li>
-        <li><a href="#trie">Trie</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Tree/Tree.md#tree">Tree</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Tree/Tree.md#bst">BST</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Tree/Tree.md#trie">Trie</a></li>
       </ul>
     </li>
     <li>
-      <a href="#stack">Stack</a>
+      <a href="#https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md">Stack</a>
       <ul>
-        <li><a href="#stack">Stack</a></li>
-        <li><a href="#monotonic-stack">Monotonic Stack</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md#stack">Stack</a></li>
+        <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md#monotonic-stack">Monotonic Stack</a></li>
       </ul>
     </li>
   </ol>
@@ -54,7 +54,10 @@ Hi, my name is Shilong Zhang, and you can call me David. I am currently an under
   <summary>Algorithms</summary>
   <ol>
     <li>
-      <a href="#sliding-window">Sliding Window</a>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Sliding%20Window/Sliding%20Window.md">Sliding Window</a>
+    </li>
+    <li>
+      <a href="#binary-search">Binary Search</a>
     </li>
   </ol>
 </details>
