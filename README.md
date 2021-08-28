@@ -24,7 +24,7 @@ Hi, my name is Shilong Zhang, and you can call me David. I am currently an under
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 <details open="open">
-  <summary>Data Structures and Algorithms</summary>
+  <summary>Data Structures</summary>
   <ol>
     <li>
       <a href="#linkedlist">LinkedList</a>
@@ -40,6 +40,21 @@ Hi, my name is Shilong Zhang, and you can call me David. I am currently an under
         <li><a href="#bst">BST</a></li>
         <li><a href="#trie">Trie</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#stack">Stack</a>
+      <ul>
+        <li><a href="#stack">Stack</a></li>
+        <li><a href="#monotonic-stack">Monotonic Stack</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+<details open="open">
+  <summary>Algorithms</summary>
+  <ol>
+    <li>
+      <a href="#sliding-window">Sliding Window</a>
     </li>
   </ol>
 </details>
