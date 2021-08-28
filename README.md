@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shiloz-bot/Shilong-s-Leetcode/">
+  <a href="https://github.com/shiloz-bot/Leetcode-Journey/">
     <img src="image/logo2.png" alt="Logo" width="150" height="150">
   </a>
 
