@@ -1,5 +1,5 @@
 
-## Singly List
+## Singly LinkedList
 
 ### Build/Reverse/Add/Delete 
 [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
