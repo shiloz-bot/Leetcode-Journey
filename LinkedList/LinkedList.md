@@ -2,7 +2,7 @@
   <summary>Table of Content</summary>
   <ol>
     <li>
-      <a href="#about-linkedlist">About LinkedList</a>
+      <a href="#things-about-linkedlist">Things About LinkedList</a>
     </li>
     <li>
       <a href="#singly-linkedlist">Singly LinkedList</a>
@@ -19,7 +19,11 @@
   </ol>
 </details>
 
-## About LinkedList
+## Things About LinkedList
+* A linked list consists of nodes where each node contains a data field and a reference to the next node.:speech_balloon:
+* Dummynode is a great technique to use while we are modifying the list, and the head of the list may get changed.
+* While doing linked list problem, we should try to create temperary listnode to save the reference to the node we want to keep track, and simplify to minimize the temp nodes after getting the optimal solution.
+* If we want to find the middle node in a list in one pass, we could create fast and slow pointers, and slow pointer points to the middle node when fast pointer reaches to the end.
 
 ## Singly LinkedList
 ### Modify
