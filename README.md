@@ -42,11 +42,14 @@ Hi, my name is Shilong Zhang, and you can call me David. I am currently an under
       </ul>
     </li>
     <li>
-      <a href="#https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md">Stack</a>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md">Stack</a>
       <ul>
         <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md#stack">Stack</a></li>
         <li><a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Stack/Stack.md#monotonic-stack">Monotonic Stack</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Heap/Heap.md">Heap</a>
     </li>
   </ol>
 </details>
@@ -57,7 +60,10 @@ Hi, my name is Shilong Zhang, and you can call me David. I am currently an under
       <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Sliding%20Window/Sliding%20Window.md">Sliding Window</a>
     </li>
     <li>
-      <a href="#binary-search">Binary Search</a>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Binary%20Search/Binary%20Search.md">Binary Search</a>
+    </li>
+    <li>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Bitwise%20Operation/Bitwise%20Operation.md">Bitwise Operation</a>
     </li>
   </ol>
 </details>
