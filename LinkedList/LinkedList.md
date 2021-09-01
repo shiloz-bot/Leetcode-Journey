@@ -8,9 +8,9 @@
       <a href="#singly-linkedlist">Singly LinkedList</a>
       <ul>
           <li><a href="#modify">Modify</a></li>
-          <li>Reverse</li>
-          <li>Add</li>
-          <li>Delete</li>
+          <li><a href="#modify">Reverse</a></li>
+          <li><a href="#modify">Add</a></li>
+          <li><a href="#modify">Delete</a></li>
       </ul>
     </li>
     <li>
@@ -23,6 +23,41 @@
 
 ## Singly LinkedList
 ### Modify
+[725. Split Linked List in Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)
+* Time: O(n), Space: O(1)
+* Calculate the length of list and number of nodes in a parts, and the earlier parts will equally share the remainder of the length / k
+* Keep track the remainder and cut the list to parts
+```java
+class Solution {
+    public ListNode[] splitListToParts(ListNode head, int k) {
+        ListNode curr = head;
+        int length = 0;
+        while (curr != null) {
+            length++;
+            curr = curr.next;
+        }
+        ListNode[] res = new ListNode[k];
+        int width = length / k;
+        int remain = length % k;
+        curr = head;
+        for (int i = 0; i < k; i++) {
+            if (curr == null) {
+                break;
+            }
+            res[i] = curr;
+            int currWidth = remain-- > 0? width + 1: width;
+            while (currWidth > 1) {
+                curr = curr.next;
+                currWidth--;
+            }
+            ListNode prev = curr;
+            curr = curr.next;
+            prev.next = null;
+        }
+        return res;
+    }
+}
+```
 ### Reverse
 [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 ```java
@@ -101,3 +136,7 @@ class Solution {
     }
 }
 ```
+
+
+
+## Doubly LinkedList
