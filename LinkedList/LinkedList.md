@@ -8,9 +8,9 @@
       <a href="#singly-linkedlist">Singly LinkedList</a>
       <ul>
           <li><a href="#modify">Modify</a></li>
-          <li><a href="#modify">Reverse</a></li>
-          <li><a href="#modify">Add</a></li>
-          <li><a href="#modify">Delete</a></li>
+          <li><a href="#reverse">Reverse</a></li>
+          <li><a href="#add">Add</a></li>
+          <li><a href="#delete">Delete</a></li>
       </ul>
     </li>
     <li>
