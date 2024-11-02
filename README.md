@@ -65,5 +65,8 @@ Hi, my name is Shilong Zhang. I'm currently a SDE at Amazon, with a strong passi
     <li>
       <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Bitwise%20Operation/Bitwise%20Operation.md">Bitwise Operation</a>
     </li>
+    <li>
+      <a href="https://github.com/shiloz-bot/Leetcode-Journey/blob/main/Two%20Pointers/Two%20Pointers.md">Two Pointers</a>
+    </li>
   </ol>
 </details>
