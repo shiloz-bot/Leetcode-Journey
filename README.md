@@ -18,7 +18,7 @@
 
 
 ## About me
-Hi, my name is Shilong Zhang, and you can call me David. I am currently an undergraduate student from University of Washington, Seattle. I am really passionate about computer science and software development. I am opening this repo to track my progress in learning data structure and algorithms. 💛 In each section, I list some of the leetcode questions that I practiced in the past.
+Hi, my name is Shilong Zhang. I'm currently a SDE at Amazon, with a strong passion for computer science and backend development. This repository serves as a resource to track my continued growth in data structures, algorithms, and other essential skills for software solutions. 💛 In each section, I've included a selection of LeetCode questions I've practiced to build expertise in efficient and optimized coding techniques.
 
 
 <!-- TABLE OF CONTENTS -->
